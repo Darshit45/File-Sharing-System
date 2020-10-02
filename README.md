@@ -1,2 +1,2 @@
 # File-Sharing-System
-Built a multithreaded file sharing system.
+Created a multithreaded file-sharing system.
